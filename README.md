@@ -1,13 +1,14 @@
-# Galeria de Fotos
+# Lista de Tarefas
 
-Galeria de imagens feita com jQuery.
+Lista de tarefas simples feita com jQuery.
 
-**Demo:** https://vitor-nascimento-jquery-galeria-fotos.vercel.app
+**Demo:** https://vitor-nascimento-exercicio-jquery-lista-de-tarefas.vercel.app
 
 ## O que faz
-- Botão **Nova Imagem +** abre o formulário
-- Adiciona uma foto colando o link (URL) da imagem
-- Em cada foto, o link **Ver imagem em tamanho real** abre a imagem em outra aba
+- Botão **Nova Tarefa** (verde) abre o campo de cadastro
+- **Cadastrar** adiciona a tarefa à lista numerada
+- **Limpar** esvazia o campo e **Cancelar** (vermelho) fecha o formulário
+- O **X** vermelho remove uma tarefa
 
 ## Tecnologias
 HTML, CSS e jQuery
